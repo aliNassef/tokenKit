@@ -1,8 +1,8 @@
-name: theme_pkg
-description: "Reusable Flutter design tokens: semantic colors, typography, spacing & radius via ThemeExtensions and context helpers."
-version: 0.0.3
-homepage: https://example.com/theme_pkg
-repository: https://example.com/theme_pkg
+name: tokenkit
+description: "Design tokens as Flutter theme extensions: semantic colors, typography, spacing & radius from one source of truth, with zero magic numbers."
+version: 0.1.0
+homepage: https://github.com/<owner>/tokenkit
+repository: https://github.com/<owner>/tokenkit
 
 environment:
   sdk: ^3.12.2

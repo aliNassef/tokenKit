@@ -1,6 +1,8 @@
-/// A reusable Flutter design-tokens package: semantic colors, typography,
-/// spacing and radius exposed through `ThemeExtension`s and `BuildContext`
-/// helpers, so the whole app is built from one source of truth.
+/// tokenkit — design tokens as Flutter theme extensions.
+///
+/// Semantic colors, typography, spacing and radius exposed through
+/// `ThemeExtension`s and `BuildContext` helpers, so the whole app is built from
+/// one source of truth — with zero magic numbers.
 ///
 /// Wire it up once:
 ///

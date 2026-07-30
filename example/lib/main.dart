@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:theme_pkg/theme_pkg.dart';
+import 'package:tokenkit/tokenkit.dart';
 
 void main() => runApp(const DemoApp());
 
@@ -38,7 +38,7 @@ class _DemoAppState extends State<DemoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'theme_pkg demo',
+      title: 'tokenkit demo',
       debugShowCheckedModeBanner: false,
       // Colors + typography animate between these via lerp().
       // Custom Inter typography is injected via the `typography:` override.

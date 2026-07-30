@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:theme_pkg/theme_pkg.dart';
+import 'package:tokenkit/tokenkit.dart';
 
 void main() {
   group('AppColorsExtension', () {

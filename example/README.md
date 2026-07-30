@@ -1,3 +1,3 @@
-# theme_pkg_example
+# tokenkit_example
 
 A new Flutter project.

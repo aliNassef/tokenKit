@@ -1,3 +1,11 @@
+## 0.1.0
+
+- **Renamed the package `theme_pkg` → `tokenkit`.** Update imports to
+  `package:tokenkit/tokenkit.dart`.
+- Added an MIT `LICENSE`.
+- Rewrote the README as a publish-ready landing page (badges, token-reference tables, a full
+  "real screen" example, and light/dark screenshot placeholders).
+
 ## 0.0.3
 
 - `AppColorsExtension.light` / `.dark` are now **factories with all-optional params**, so defining a

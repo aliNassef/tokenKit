@@ -1,5 +1,5 @@
-name: theme_pkg_example
-description: "Demo app for the theme_pkg design-tokens package."
+name: tokenkit_example
+description: "Demo app for the tokenkit design-tokens package."
 publish_to: "none"
 version: 1.0.0
 
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  theme_pkg:
+  tokenkit:
     path: ../
   google_fonts: ^6.2.1
 
