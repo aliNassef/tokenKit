@@ -1,8 +1,15 @@
 name: tokenkit
 description: "Design tokens as Flutter theme extensions: semantic colors, typography, spacing & radius from one source of truth, with zero magic numbers."
 version: 0.1.0
-homepage: https://github.com/<owner>/tokenkit
-repository: https://github.com/<owner>/tokenkit
+homepage: https://github.com/aliNassef/tokenKit
+repository: https://github.com/aliNassef/tokenKit
+issue_tracker: https://github.com/aliNassef/tokenKit/issues
+
+topics:
+  - theme
+  - design-tokens
+  - material
+  - theming
 
 environment:
   sdk: ^3.12.2

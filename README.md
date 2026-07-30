@@ -46,23 +46,29 @@
 
 ## Install
 
-`tokenkit` is distributed via GitHub. Add it as a git dependency:
+```bash
+flutter pub add tokenkit
+```
+
+Or add it to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  tokenkit: ^0.1.0
+```
+
+<details>
+<summary>Prefer the latest from GitHub?</summary>
 
 ```yaml
 dependencies:
   tokenkit:
     git:
-      url: https://github.com/<owner>/tokenkit.git
+      url: https://github.com/aliNassef/tokenKit.git
       # ref: v0.1.0   # optionally pin a tag
-  # Once published to pub.dev:
-  # tokenkit: ^0.1.0
 ```
 
-Then:
-
-```bash
-flutter pub get
-```
+</details>
 
 ## Quick start
 
