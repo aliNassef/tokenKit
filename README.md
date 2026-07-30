@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-> 📸 Screenshots are placeholders — run the [`example/`](example/) app and drop captures into `doc/screenshots/light.png` and `dark.png`.
+<sub>Screens from the <a href="example/"><code>example/</code></a> app — a custom brand palette, the Inter/Tajawal font via <code>google_fonts</code>, and every token.</sub>
 
 ## Contents
 
